@@ -6,6 +6,7 @@ This document explains how to run a API test with Postman.
 # Summery
 I have complated a API test Booking webste.
 https://restful-booker.herokuapp.com
+
 ![Report](https://github.com/prantoahmed/Rest_API_Automation_1/assets/30936060/cbd62f8c-58c8-4c72-afe8-2772c304f893)
 
 Here in this API new books were orderd list of books were viewed and different tests were performed like GET, POST, PUT,DELETE.
@@ -26,13 +27,6 @@ Node JS
 
 https://nodejs.org/en/
 
-# Assertions Details
-
-Create User:
-
-# Introduction
-
-This document explains how to run a API test with Postman.
 
 # Summery
 I have complated a API test Booking webste.
